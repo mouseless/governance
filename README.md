@@ -1,2 +1,3 @@
-# governance
-Governance model of our collective
+# Governance
+
+> TODO: document current governance model
