@@ -16,10 +16,12 @@ Everyone has one or more roles to contribute to the software we're delivering.
 - **Member**: This is the base role to for the rest of the people in our Discord
   server
 
-Each role covers those below it; for instance, an owner is also a partner, a
-partner is a contributor, etc.
+Rules;
 
-A member can have only one legal role.
+- Each role covers those below it; for instance, an owner is also a partner, a
+partner is a contributor, etc
+- A member can have only one legal role
+- Only the roles with legal binding are added to GitHub organization
 
 ### Functional
 
@@ -28,6 +30,14 @@ A member can have only one legal role.
 - **Lawyers**: Provide legal advice, create, and review legal contracts
 - **Marketers**: Take initiative in marketing the collective and its projects
 
-These roles serve as team names on GitHub and can be mentioned on Discord.
+Rules;
 
-A member can have multiple functional roles.
+- These roles serve as team names on GitHub and can be mentioned on Discord
+- A member can have multiple functional roles
+
+### Other
+
+- `Booster` is an automatic role from Discord, and doesn't have any additional
+  permissions
+- Bot roles starts with `Bot ` and share the same color
+- Bot roles are assigned manually to the related channel(s)
