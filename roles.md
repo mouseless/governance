@@ -6,7 +6,9 @@ Everyone has one or more roles to contribute to the software we're delivering.
 
 - **Owner**: Makes the final decisions and handles responsibilities not covered
   by current roles
+  - Owner people should be set as owner in GitHub organization
 - **Member**: People with legal binding so that they get paid for what they do
+  - Member people are added to GitHub organization
 - **Contributor**: People with no legal binding but known personally within our
   network who voluntarily contribute to public repositories
 - **Follower**: This is the base role to for the rest of the people in our
@@ -14,10 +16,7 @@ Everyone has one or more roles to contribute to the software we're delivering.
 
 Rules;
 
-- Each role covers those below it; for instance, a Member can do what a
-  Contributor can, etc
 - A person can have only one legal role
-- People with Member or Owner roles are added to GitHub organization
 
 ## Functional
 
@@ -28,8 +27,8 @@ Rules;
 
 Rules;
 
-- These roles serve as team names on GitHub and can be mentioned on Discord
 - A person can have multiple functional roles
+- These roles serve as team names on GitHub and can be mentioned on Discord
 
 ## Other
 
