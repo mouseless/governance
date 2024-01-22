@@ -10,18 +10,18 @@ Everyone has one or more roles to contribute to the software we're delivering.
 
 - **Owner**: Makes the final decisions and handles responsibilities not covered
   by current roles
-- **Partner**: People with legal binding so that they get paid for what they do
+- **Member**: People with legal binding so that they get paid for what they do
 - **Contributor**: People with no legal binding but known personally within our
   network who voluntarily contribute to public repositories
-- **Member**: This is the base role to for the rest of the people in our Discord
-  server
+- **Follower**: This is the base role to for the rest of the people in our
+  Discord server
 
 Rules;
 
-- Each role covers those below it; for instance, an owner is also a partner, a
-partner is a contributor, etc
-- A member can have only one legal role
-- Only the roles with legal binding are added to GitHub organization
+- Each role covers those below it; for instance, a Member can do what a
+  Contributor can, etc
+- A person can have only one legal role
+- People with Member or Owner roles are added to GitHub organization
 
 ### Functional
 
@@ -33,7 +33,7 @@ partner is a contributor, etc
 Rules;
 
 - These roles serve as team names on GitHub and can be mentioned on Discord
-- A member can have multiple functional roles
+- A person can have multiple functional roles
 
 ### Other
 
