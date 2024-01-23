@@ -9,8 +9,12 @@ Each backlog is a prioritized list of work items to be done.
 In GitHub, a backlog is represented by a single markdown file under `01-todo`
 folder of the `work` repository.
 
-In Discord, backlogs are represented by categories. Categories should have a
-related emoji before the name.
+In Discord,
+
+- Backlogs are represented by categories. Categories should have a related emoji
+  before the name
+- Categories does not have custom permission to be able to move the channels
+  from one category to another without a concern
 
 ## Repository / Text Channel
 

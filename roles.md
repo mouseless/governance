@@ -11,12 +11,11 @@ Everyone has one or more roles to contribute to the software we're delivering.
   - Member people are added to GitHub organization
 - **Contributor**: People with no legal binding but known personally within our
   network who voluntarily contribute to public repositories
-- **Follower**: This is the base role to for the rest of the people in our
-  Discord server
 
 Rules;
 
 - A person can have only one legal role
+- People without a legal role has default permissions in Discord
 
 ## Functional
 

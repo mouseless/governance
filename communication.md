@@ -32,8 +32,8 @@ Voice Channels under this category;
 
 ## Public Category
 
-Anything under this category is read-only for a Follower, read/write for a
-Contributor and above.
+Anything under this category is read/write for a Contributor and above, but
+read-only for the rest.
 
 It is allowed to open various text and voice channels under this category.
 
