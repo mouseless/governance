@@ -7,7 +7,7 @@ We manage our work using various backlogs and repositories.
 Each backlog is a prioritized list of work items to be done.
 
 In GitHub, a backlog is represented by a single markdown file under `01-todo`
-folder of the `work` repository.
+folder of the private `work` repository.
 
 In Discord,
 
@@ -39,18 +39,22 @@ collective.
 
 Write permissions for a public repository / text channel and read / write
 permissions for a private repository / text channel are given to the responsible
-teams only. For instance, a Marketer does not have write access to a repository
-that requires work only from Coders.
+teams only.
 
 ## Work Item / Pull Requests / Threads
 
-Each work item goes under `02-in-progress` folder of the `work` repository as a
-separate markdown file.
-
-A work item mostly have a corresponding pull request (PR) in GitHub and a
+An active work item is placed under `02-in-progress` folder of the private
+`work` repository as a separate markdown file. If this work is under a
+repository, it has a corresponding pull request (PR) in GitHub and a
 corresponding thread in Discord. These PRs and threads are temporary places to
-discuss the work being done and closed as soon as the work is done.
+discuss the active work and closed as soon as it is done.
 
 We have an `Actively Working` category in Discord, to find active work threads
 easily. A text channel with an active thread is temporarily moved under this
 category by an Owner until the work is done.
+
+## A Note on Project Management
+
+Our project management methodology is not yet documented. Until it is done,
+please take the latest works as an example and ask for help in a text channel
+related to your work if you have any questions.

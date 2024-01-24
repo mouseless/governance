@@ -1,16 +1,16 @@
 # Communication
 
-In Discord, it is allowed to have categories, text and voice channels for
-communication purposes as well as work tracking.
+In Discord, we have categories, text and voice channels for communication
+purposes as well.
 
-## Office
+## Public Category
 
-Office is a member only private voice channel. This is where you join when
-you're actively working for the collective.
+Anything under this category is read/write for a Contributor and above, but
+read-only for the rest.
 
-It is the only channel at the root without a category.
+It is allowed to open various text and voice channels under this category.
 
-This channel is restricted to use Push-to-Talk.
+Voice channels under this category should restrict users to use Push-to-Talk.
 
 ## Meet Category
 
@@ -30,11 +30,8 @@ Voice Channels under this category;
 - Are member only, and further restriction can be made according to functional
   roles.
 
-## Public Category
+## Root
 
-Anything under this category is read/write for a Contributor and above, but
-read-only for the rest.
-
-It is allowed to open various text and voice channels under this category.
-
-Voice channels under this category should restrict users to use Push-to-Talk.
+Office is the only channel at the root without a category. It is a member only
+private voice channel. This is where you join when you're actively working for
+the collective. This channel is restricted to use Push-to-Talk.
