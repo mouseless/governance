@@ -24,11 +24,11 @@ We utilize git repositories to store;
 - Documentation
 - Work items
 - Scripts and automation
-- Content
+- Website Content
 - Data
 
-Most of the work we do has a corresponding repository unless it is purely
-operational.
+Most of the work we do has a corresponding repository unless it is related to
+daily operations or routine tasks.
 
 In Discord, each repository is represented by a text channel with a webhook
 configured from GitHub to Discord.
@@ -37,9 +37,10 @@ Private repositories have private text channels, and are accesible only to
 Members and above, whereas public repositories are accessible to anyone in the
 collective.
 
-Repository and text channel write, and read for private repos, permissions are
-given to the responsible teams only. For instance, a Marketer does not have
-write access to a repository that requires work only from Coders.
+Write permissions for a public repository / text channel and read / write
+permissions for a private repository / text channel are given to the responsible
+teams only. For instance, a Marketer does not have write access to a repository
+that requires work only from Coders.
 
 ## Work Item / Pull Requests / Threads
 

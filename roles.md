@@ -14,8 +14,7 @@ Everyone has one or more roles to contribute to the software we're delivering.
 
 Rules;
 
-- A person can have only one legal role
-- People without a legal role has default permissions in Discord
+- A person may have zero or one legal role
 
 ## Functional
 
@@ -27,11 +26,13 @@ Rules;
 Rules;
 
 - A person can have multiple functional roles
-- These roles serve as team names on GitHub and can be mentioned on Discord
+- Functional roles serve as team names on GitHub
+- Functional roles can be mentioned in GitHub and Discord
 
 ## Other
 
-- `Booster` is an automatic role from Discord, and doesn't have any additional
-  permissions
-- Bot roles starts with `Bot ` and share the same color
-- Bot roles are assigned manually to the related channel(s)
+- Any permission in a specific service (Discord, GitHub etc.) is allowed to be
+  given to any role by moderators of that service unless it has a direct
+  conflict with this governance model
+- New roles can be created in a specific service (Discord, GitHub etc.) to
+  workaround restrictions of that service
