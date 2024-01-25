@@ -10,12 +10,12 @@ the collective. This channel is restricted to use Push-to-Talk.
 
 ## Public Category
 
-Anything under this category is read/write for a Contributor and above, but
-read-only for the rest.
+This category is to enable a public discussion and information sharing within
+our collective. Anything under this category is read/write for a Contributor and
+above, but read-only for the rest.
 
-It is allowed to open various text and voice channels under this category.
-
-Voice channels under this category should restrict users to use Push-to-Talk.
+- It is allowed to open various text and voice channels under this category
+- Voice channels under this category should restrict users to use Push-to-Talk
 
 ## Meet Category
 

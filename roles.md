@@ -12,7 +12,7 @@ collective.
 - **Marketers**: People who take initiative in marketing the collective and its
   projects
 
-## Legal Status
+## Legal Statuses
 
 - **Owner**: Makes the final decisions and handles responsibilities not covered
   by current roles
@@ -20,7 +20,7 @@ collective.
 - **Contributor**: People with no legal binding but known personally within our
   network who voluntarily contribute to public repositories
 
-## Other
+## Rules to Follow
 
 - A person may have zero or one legal status
 - A person may belong to multiple teams
