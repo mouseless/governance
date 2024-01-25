@@ -6,14 +6,13 @@ We manage our work using various backlogs and repositories.
 
 Each backlog is a prioritized list of work items to be done.
 
-In GitHub, a backlog is represented by a single markdown file under `01-todo`
-folder of the private `work` repository.
+In GitHub, a backlog is represented by a single markdown file in the private
+`work` repository. Backlogs appear under the `01-todo` folder per company.
 
 In Discord,
 
-- Backlogs are represented by categories. Categories should have a related emoji
-  before the name
-- Categories does not have custom permission to be able to move the channels
+- Backlogs are represented by categories after communication categories
+- Categories should not have custom permission to be able to move the channels
   from one category to another without a concern
 
 ## Repository / Text Channel

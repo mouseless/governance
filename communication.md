@@ -1,7 +1,12 @@
 # Communication
 
-In Discord, we have categories, text and voice channels for communication
-purposes as well.
+We use Discord categories, text and voice channels for communication.
+
+## Root
+
+Office is the only channel at the root without a category. It is a member only
+private voice channel. This is where you join when you're actively working for
+the collective. This channel is restricted to use Push-to-Talk.
 
 ## Public Category
 
@@ -30,9 +35,3 @@ Voice Channels under this category;
 - Can be created, updated and deleted on demand
 - Are member only, and further restriction can be made according to functional
   roles
-
-## Root
-
-Office is the only channel at the root without a category. It is a member only
-private voice channel. This is where you join when you're actively working for
-the collective. This channel is restricted to use Push-to-Talk.
