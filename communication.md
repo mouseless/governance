@@ -25,10 +25,11 @@ Text channels under this category;
 
 Voice Channels under this category;
 
-- Don't restrict voice activity but users should be limited.
-- Can be created, updated and deleted on demand.
+- Can be used with voice activity setting enabled in discord, but to avoid
+  overlapping talks number of users should be limited
+- Can be created, updated and deleted on demand
 - Are member only, and further restriction can be made according to functional
-  roles.
+  roles
 
 ## Root
 
