@@ -26,7 +26,7 @@ We utilize git repositories to store;
 - Website Content
 - Data
 
-Most of the work we do has a corresponding repository unless it is related to
+Most of the work we do has a corresponding repository, unless it is related to
 daily operations or routine tasks.
 
 In Discord, each repository is represented by a text channel with a webhook
