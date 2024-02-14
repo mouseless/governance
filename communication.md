@@ -15,7 +15,8 @@ our collective. Anything under this category is read/write for a Contributor and
 above, but read-only for the rest.
 
 - It is allowed to open various text and voice channels under this category
-- Voice channels under this category should restrict users to use Push-to-Talk
+- Voice channels under this category might restrict users to use Push-to-Talk
+  when needed
 
 ## Meet Category
 
@@ -35,3 +36,35 @@ Voice Channels under this category;
 - Can be created, updated and deleted on demand
 - Are member only, and further restriction can be made according to functional
   roles
+
+## Administrate Category
+
+This category is both a backlog and a communication category. It contains text
+channels such as `governance` and `work` as well as company channels to allow
+communication concerning administrative issues.
+
+- Repository text channels are subject to the rules explained in
+  [work](./work.md)
+- Company text channels are;
+  - Private text channels
+  - Accessible to owners and the only company representative
+  - Used to publish automatic progress report of members in company
+
+> :information_source:
+>
+> Note that all members don't have a direct administrative channel with the
+> owners. Each representative is expected to handle its own internal
+> administrative communication. This is to promote open communication for
+> non-admin subjects and to allow a more decentralized collective structure for
+> the future.
+
+## -Archive- Category
+
+Text channels are never deleted if they are once used actively. This category
+contains unused channels to keep the messages.
+
+Text channels under this category;
+
+- is only accessible by owners
+- is renamed to include its old category as a prefix, e.g., `apple` under
+  develop would be `develop-apple` when archived
