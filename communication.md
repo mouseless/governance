@@ -35,3 +35,7 @@ Voice Channels under this category;
 - Can be created, updated and deleted on demand
 - Are member only, and further restriction can be made according to functional
   roles
+
+## Administrate Category
+
+TBD
