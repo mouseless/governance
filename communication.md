@@ -61,5 +61,10 @@ communication concerning administrative issues.
 ## -Archive- Category
 
 Text channels are never deleted if they are once used actively. This category
-contains unused channels to keep the messages. Text channels under this category
-is only accessible by owners.
+contains unused channels to keep the messages.
+
+Text channels under this category;
+
+- is only accessible by owners
+- is renamed to include its old category as a prefix, e.g., `apple` under
+  develop would be `develop-apple` when archived
