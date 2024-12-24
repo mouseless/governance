@@ -1,6 +1,6 @@
 # Communication
 
-We use Discord categories, text and voice channels for communication.
+We use Matrix spaces and rooms for communication.
 
 ## Root
 
