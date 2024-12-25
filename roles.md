@@ -24,11 +24,10 @@ collective.
 
 - A person may have zero or one legal status
 - A person may belong to multiple teams
-- Teams are configured as mentionable roles in Discord
 - An owner is set as owner within the GitHub organization
 - A member is added to GitHub organization
-- New roles can be created in a specific service (Discord, GitHub etc.) to
+- New roles can be created in a specific service (Matrix, GitHub etc.) to
   workaround restrictions of that service
-- Any permission in a specific service (Discord, GitHub etc.) is allowed to be
+- Any permission in a specific service (Matrix, GitHub etc.) is allowed to be
   given to any role by moderators of that service unless it has a direct
   conflict with this governance model
