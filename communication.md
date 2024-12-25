@@ -19,7 +19,7 @@ sharing within our collective. These rooms have video call enabled.
 >   in the room's avatar
 > - A room may have a custom icon where possible
 
-## Public Space (`#public`)
+## Public Space
 
 This space contains only rooms for public repositories. It is open for anyone to
 join.
@@ -29,7 +29,7 @@ Rooms under this space;
 - Is not allowed to have video calls enabled
 - Is optional for non-active repositories
 
-## Private Space (`#private`)
+## Private Space
 
 This space is for members-only, where rooms for private repositories are
 available. Non-repository rooms like `#office` also exists to allow general
@@ -49,7 +49,7 @@ Rooms under this space;
 - Must have video calls enabled if they are for discussion (non-repository
   room).
 
-### Administration Space (`#administration`)
+### Administration Space
 
 This space is empty in collective's home server, but anyone joins becomes a
 `Moderator` to allow to add your own administration rooms to have a private
