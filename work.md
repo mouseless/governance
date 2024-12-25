@@ -2,7 +2,7 @@
 
 We manage our work using various backlogs and repositories.
 
-## Backlog / Category
+## Backlog
 
 Each backlog is a prioritized list of work items to be done.
 
@@ -11,7 +11,7 @@ In GitHub, a backlog is represented by a single markdown file in the private
 
 In Matrix, a backlog doesn't have any correspondance.
 
-## Repository / Text Channel
+## Repository
 
 We utilize git repositories to store;
 
