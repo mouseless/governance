@@ -15,6 +15,9 @@ sharing within our collective. These rooms have video call enabled.
 >   have access to.
 > - All rooms are published using their names, e.g., `#office:mouseless.org`,
 >   `#baked:mouseless.org`, so you can mention them using hashtags across rooms.
+> - Room or space names may utilize an emoji as the initial character to have it
+>   in the room's avatar
+> - A room may have a custom icon where possible
 
 ## Public Space (`#public`)
 
@@ -58,6 +61,10 @@ You may leave any room at any time whenever you think that is obsolete.
 `@admin:mouseless.org` will always have access to idle rooms for archiving
 purposes. Once archived, rooms will be removed from space listing and will have
 no published names.
+
+## Migration from Discord
+
+We've used Discord from `2022` through `2024`, below are migration notes.
 
 > [!NOTE]
 >
