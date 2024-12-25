@@ -61,22 +61,3 @@ You may leave any room at any time whenever you think that is obsolete.
 `@admin:mouseless.org` will always have access to idle rooms for archiving
 purposes. Once archived, rooms will be removed from space listing and will have
 no published names.
-
-## Migration from Discord
-
-We've used Discord from `2022` through `2024`, below are migration notes.
-
-> [!NOTE]
->
-> - Each channel has an import message pinned to the top containing discord
->   exports in html format
-> - Archived channels wasn't imported at all
-> - Some channels merged into one room
->   - `meet/digitally` -> `#random`
->   - `meet/physically` -> `#random`
->   - `meet/lounge` -> `#random`
->   - `meet/daily` -> `#office`
->   - `digitally[private]` -> `#office`
->   - `announcements` -> `#governance`
->     - message archive is in `#office` since early usage contains private
->       discussions

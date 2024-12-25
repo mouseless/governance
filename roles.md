@@ -16,9 +16,9 @@ collective.
 
 - **Owner**: Makes the final decisions and handles responsibilities not covered
   by current roles
-- **Member**: People with legal binding so that they get paid for what they do
-- **Contributor**: People with no legal binding but known personally within our
-  network who voluntarily contribute to public repositories
+- **Member**: People with legal binding
+- **Contributor**: People with no legal binding within our network who
+  voluntarily contribute to public repositories
 
 ## Rules to Follow
 
