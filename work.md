@@ -49,5 +49,5 @@ access active works through the most recently rooms at the top.
 ## A Note on Project Management
 
 Our project management methodology is not yet documented. Until it is done,
-please take the latest works as an example and ask for help in a text channel
+please take the latest works as an example and ask for help in a chat room
 related to your work if you have any questions.
