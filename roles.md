@@ -16,19 +16,18 @@ collective.
 
 - **Owner**: Makes the final decisions and handles responsibilities not covered
   by current roles
-- **Member**: People with legal binding so that they get paid for what they do
-- **Contributor**: People with no legal binding but known personally within our
-  network who voluntarily contribute to public repositories
+- **Member**: People with legal binding
+- **Contributor**: People with no legal binding within our network who
+  voluntarily contribute to public repositories
 
 ## Rules to Follow
 
 - A person may have zero or one legal status
 - A person may belong to multiple teams
-- Teams are configured as mentionable roles in Discord
 - An owner is set as owner within the GitHub organization
 - A member is added to GitHub organization
-- New roles can be created in a specific service (Discord, GitHub etc.) to
+- New roles can be created in a specific service (Matrix, GitHub etc.) to
   workaround restrictions of that service
-- Any permission in a specific service (Discord, GitHub etc.) is allowed to be
+- Any permission in a specific service (Matrix, GitHub etc.) is allowed to be
   given to any role by moderators of that service unless it has a direct
   conflict with this governance model
