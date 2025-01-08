@@ -7,10 +7,6 @@ collective.
 
 - **Coders**: People who professionally write code
 - **Governors**: People who make contributions to the governance model
-- **Lawyers**: People who provide legal advice, create, and review legal
-  contracts
-- **Marketers**: People who take initiative in marketing the collective and its
-  projects
 
 ## Legal Statuses
 
