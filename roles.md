@@ -3,25 +3,19 @@
 Roles define the authority and accountibility of individuals within our
 collective.
 
-## Teams
-
-- **Coders**: People who professionally write code
-- **Governors**: People who make contributions to the governance model
-
-## Legal Statuses
-
-- **Owner**: Makes the final decisions and handles responsibilities not covered
-  by current roles
-- **Member**: People with legal binding
-- **Contributor**: People with no legal binding within our network who
-  voluntarily contribute to public repositories
+- **Contributor**: People with no legal binding who voluntarily contribute to
+  public repositories
+- **Member**: People with legal binding who work for customer projects within
+  the collective
+- **Owner**: Responsible for the things that are not, or cannot, delegated to
+  members or contributors
 
 ## Rules to Follow
 
-- A person may have zero or one legal status
-- A person may belong to multiple teams
+- A person may have one role
 - An owner is set as owner within the GitHub organization
 - A member is added to GitHub organization
+- A member is added to private space in Matrix
 - New roles can be created in a specific service (Matrix, GitHub etc.) to
   workaround restrictions of that service
 - Any permission in a specific service (Matrix, GitHub etc.) is allowed to be
