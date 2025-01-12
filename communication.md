@@ -55,6 +55,9 @@ This space is empty in collective's home server, but anyone joins becomes a
 `Moderator` to allow to add your own administration rooms to have a private
 discussion regarding your clients and/or any other administrative purpose.
 
+To be able to receive automated worklog reports, `@admin:mouseless.org` is
+required to be invited to the rooms under this space.
+
 ## Archiving a room
 
 You may leave any room at any time whenever you think that is obsolete.
