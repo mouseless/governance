@@ -13,7 +13,8 @@ collective.
 ## Rules to Follow
 
 - A person may have one role
-- An owner is set as owner within the GitHub organization
+- An owner should be set as owner within the GitHub organization
+- An owner should have access to `@admin:mouseless.org` account
 - A member is added to GitHub organization
 - A member is added to private space in Matrix
 - New roles can be created in a specific service (Matrix, GitHub etc.) to
