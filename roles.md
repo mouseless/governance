@@ -7,7 +7,7 @@ collective.
   public repositories
 - **Member**: People with legal binding who work for customer projects within
   the collective
-- **Owner**: Responsible for the things that are not, or cannot, delegated to
+- **Owner**: Responsible for the things that are not, or cannot be, delegated to
   members or contributors
 
 ## Rules to Follow
